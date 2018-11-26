@@ -1,6 +1,6 @@
 <?php>
 
-echo "meu primeiro programa";
+echo "Hello World";
 
 
 
